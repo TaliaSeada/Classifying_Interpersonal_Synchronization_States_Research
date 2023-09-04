@@ -1,5 +1,7 @@
 # New research changes what we know about synchronization between humans - and may help diagnose autism
 
+![AUTISM_autoOrient_i](https://github.com/TaliaSeada/Classifying_Interpersonal_Synchronization_States_Research/assets/78349342/0a9650ce-4ece-445f-8c51-20411e74bd76)
+
 ### Synchronization between humans is of crucial importance in creating social relationships and interacting with the environment • Until now, scientists believed that speed is an essential factor in synchronization between people, but new research reveals that location is also critical • Research leader: "We believe that our development can help diagnose "Early Autism"
 Synchronization between people is of crucial importance in our social relationships. People on the autistic spectrum sometimes have difficulty reading social situations - and synchronizing with others. A new Israeli study published in Scientific Reports from Nature presents a new picture of how humans synchronize with each other and estimates that its results may help in the early diagnosis of autism and even "train" those dealing with it to better understand the environment. The leader of the research: "We believe that our development can help in the early diagnosis of autism."
 
